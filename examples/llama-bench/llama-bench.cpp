@@ -941,7 +941,7 @@ struct test {
 
     static std::string get_backend() {
         if (cuda) {
-            return GGML_CUDA_NAME;
+            return "CUDA";
         }
         if (vulkan) {
             return "Vulkan";
