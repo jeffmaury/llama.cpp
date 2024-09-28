@@ -1,2 +1,2 @@
 image:
-  file: quay.io/jeffmaury/ubuntu-dawn
+  file: .devops/full-webgpu.Dockerfile
